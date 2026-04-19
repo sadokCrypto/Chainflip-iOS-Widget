@@ -4,8 +4,9 @@ A polished iOS home screen widget for [Chainflip](https://chainflip.io) delegato
 
 Built with [Scriptable](https://scriptable.app) (iOS). No app install, no account signup, no tracking. Just paste the script, drop in your ETH address, and you're done.
 
+<img  height="175" alt="Widget" src="https://github.com/user-attachments/assets/0daaf47f-9271-4ddc-93b0-b5f03f450717" />
+<img  height="175" alt="Tinted" src="https://github.com/user-attachments/assets/b7fd84c2-0a12-4ad4-b7a5-822a67ab5899" />
 
-<img width="195" alt="Widget" src="https://github.com/user-attachments/assets/02a7b103-5d9b-457b-8ae3-abcf604b1b85" />
 
 
 ## Features
